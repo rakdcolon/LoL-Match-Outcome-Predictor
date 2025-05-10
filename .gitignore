@@ -1,7 +1,5 @@
 *.json
 *.log
-*.txt
-*.md
 *.csv
 *.xlsx
 *.xls
